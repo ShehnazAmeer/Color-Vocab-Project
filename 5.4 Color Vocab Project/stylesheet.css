@@ -1,0 +1,23 @@
+* {
+    font-weight: normal;
+}
+
+[for="text1"] {
+    color: red;
+}
+
+[for="text2"] {
+    color: blue;
+}
+
+[for="text3"] {
+    color: green;
+}
+
+[for="text4"] {
+    color: blueviolet;
+}
+
+[for="text5"] {
+    color: yellow;
+}
